@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(237, 237, 138);
+}
+#continers{
+
+    height: 900px;
+
+    background-color: white;
+    margin-left:300px;
+    width: 900px;
+
+
+}
+h1{
+    background-color: yellow;
+    width: auto;
+    padding: 20px;
+
+    margin: 0;
+}
+.side{
+    background-color: rgb(168, 155, 155);
+    float: right;
+    height: 823px;
+    width: 300px;
+}
+footer{
+    background-color: grey;
+    width: auto;
+    text-align: center;
+    height: 50px;
+
+
+}
+footer div {
+padding: 10px;}
+.pad{
+    padding: 20px;
+}
+

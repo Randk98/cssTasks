@@ -1,0 +1,82 @@
+.title{
+    float: left;
+    font-size: 20px;
+    
+}
+
+.all{
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding-bottom: 5%;
+    
+}
+
+.link{
+    float: right;
+    padding-right: 20px;
+    padding-top: 30px;
+}
+.title{
+    float: left;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+}
+
+.article{
+    padding-left: 15px;
+    
+}
+.h3{
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+aside {
+    float: right;
+    margin-right: 150px;
+}
+
+ .box{
+    box-sizing: border-box;
+    padding: 30px;
+    background-color:orange;
+    margin-right: 40px;
+   
+   
+}
+
+.useful-links{
+    color: white;
+    background-color: red;
+    margin: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.A1{
+    padding-top: 30px;
+    padding-left: 30px;
+    width: 50%;
+}
+
+.hr{
+    width: 50%;
+    float: left;
+}
+
+.div{
+    display: inline;
+}
+
+
+
+
+

@@ -1,0 +1,41 @@
+li{
+    display: inline;
+}
+.nav1{
+    float: left;
+}
+.nav2{
+    float: right;
+}
+.Google{
+    font-size: 50px;
+margin: 50px;
+text-align: center;
+padding-bottom: 50px;
+}
+.input  {
+    border: 1px solid rgb(0, 0, 0);
+    width: 50%;
+    margin: auto;
+}
+.s-btn{
+    display: inline;
+    float: right;
+}
+.foot1{
+    float: right;
+   padding-right: 45px;
+}
+.foot2{
+    float: left;
+}
+.foot{
+    
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+       
+        color: white;
+        text-align: center;
+}

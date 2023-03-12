@@ -1,0 +1,19 @@
+p{
+    color: aquamarine;
+    font-size: 30px;
+}
+
+.my-p{
+    border: 1px solid black ;
+    height: 10pt;
+    margin: auto;
+    padding-left: 20px;
+padding-right: 10px;
+    padding-bottom: 50px;
+    color: rgb(7, 111, 132);
+    font-size: 50px;
+}
+#my-p{
+    color: rgb(218, 125, 20);
+    font-size: 60px;
+}

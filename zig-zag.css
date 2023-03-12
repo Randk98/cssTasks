@@ -1,0 +1,19 @@
+.num1{
+  background-color: yellow; 
+  display:inline-block;
+  border: 1px solid black;
+  width: 90px;
+  height: 90px;
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+.num2{
+    background-color: green; 
+    display:inline-block;
+    border: 1px solid black;
+    width: 90px;
+    height: 90px;
+    margin-top: 25px;
+
+  }
